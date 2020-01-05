@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders ProgressBar component should render properly with base props 1`] = `
+Array [
+  <div
+    className="progress-wrapper"
+    key="0"
+  >
+    <ProgressBar
+      animated={false}
+      className="progress-item"
+      isChild={false}
+      label="10%"
+      max={10}
+      min={0}
+      now={10}
+      srOnly={false}
+      striped={false}
+      variant="danger"
+    />
+  </div>,
+  <div
+    className="progress-wrapper"
+    key="1"
+  >
+    <ProgressBar
+      animated={false}
+      className="progress-item"
+      isChild={false}
+      label="20%"
+      max={10}
+      min={0}
+      now={20}
+      srOnly={false}
+      striped={false}
+      variant="danger"
+    />
+  </div>,
+  <div
+    className="progress-wrapper"
+    key="2"
+  >
+    <ProgressBar
+      animated={false}
+      className="progress-item"
+      isChild={false}
+      label="30%"
+      max={10}
+      min={0}
+      now={30}
+      srOnly={false}
+      striped={false}
+      variant="danger"
+    />
+  </div>,
+]
+`;

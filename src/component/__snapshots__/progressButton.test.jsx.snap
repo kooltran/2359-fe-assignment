@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders ProgressButton component should render properly with base props 1`] = `
+<div>
+  <button
+    className="progress-button"
+    key="0"
+    onClick={[Function]}
+  >
+    10
+  </button>
+  <button
+    className="progress-button"
+    key="1"
+    onClick={[Function]}
+  >
+    20
+  </button>
+  <button
+    className="progress-button"
+    key="2"
+    onClick={[Function]}
+  >
+    30
+  </button>
+</div>
+`;

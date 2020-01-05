@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders BarDropDown component should render properly with base props 1`] = `
+<StateManager
+  className="progress-dropdown"
+  defaultInputValue=""
+  defaultMenuIsOpen={false}
+  defaultValue={
+    Object {
+      "label": "Progress 1",
+      "value": 1,
+    }
+  }
+  isSearchable={false}
+  onChange={[Function]}
+  options={
+    Array [
+      Object {
+        "label": "Progress 1",
+        "value": 1,
+      },
+      Object {
+        "label": "Progress 2",
+        "value": 2,
+      },
+      Object {
+        "label": "Progress 3",
+        "value": 3,
+      },
+    ]
+  }
+  styles={
+    Object {
+      "menu": [Function],
+      "menuList": [Function],
+    }
+  }
+/>
+`;
